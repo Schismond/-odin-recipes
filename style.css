@@ -1,3 +1,66 @@
 body{
     background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/restaurant.png);
+    text-align: center;
+}
+
+li {
+    list-style-position: inside ;
+}
+
+div{
+ 
+    margin: auto;
+    margin-bottom: 20px;
+  width: 50%;
+  padding: 10px;
+}
+
+div ,p {
+    font-family: Verdana, sans-serif;
+    text-align: left;
+}
+
+h2{
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+.mid{
+    text-align: center;
+}
+h1{
+    font-family: Georgia, serif;
+    font-size: 56px;
+    margin-bottom: 88px;
+    color: rgb(6, 43, 78);
+}
+
+
+a:link {
+    color: #145AA6;
+  }
+
+  a:hover {
+    color: blue;
+  }
+  
+  a:active {
+    
+    color: rgb(0, 247, 255);
+  }
+
+
+.lin{
+ font-size: 35px;
+margin-bottom: 55px;
+}
+
+.title{
+    font-size: 38px;
+    margin: auto;
+    margin-bottom: 10px;
+    color: #145AA6;
+}
+.tit{
+    color: blue;
 }
