@@ -9,7 +9,7 @@ Apply styling using CSS to enhance the visual appeal of the page.
 
 ## Live Demo
 
-[Click here](https://schismond.github.io/-odin-recipes/) to view a live demo of the website.
+[Click here](https://schismond.github.io/odin-recipes/) to view a live demo of the website.
 
 ## Show your support
 
